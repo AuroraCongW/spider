@@ -1,0 +1,2 @@
+def get_keywords():
+    return ["U.S.-China trade and COVID-19","Unfair trade and intellectual property rights","U.S.-China trade and tariffs","U.S.-China trade war and trade barriers","U.S.-China trade war and protectionism","China and the world order","China and national Security","presidential election and trade war"]
